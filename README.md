@@ -32,20 +32,18 @@ I'm diving deep into:
 
 ---
 
-## 💡 A Few Personal Mottos You Might Like:
-- “Turning data into decisions.”
+## 💡 Personal Mottos:
 - “Build things that matter.”
 - “Learn. Build. Repeat.”
 
 ---
 
-## 🌱 Currently open to:
-- Collaborations on ML/data projects
-- Internship or mentorship opportunities in AI or Data Science
-- Learning from other open-source enthusiasts!
+## 🌱 Currently Open To
 
----
+- 🤝 Collaborating on open-source projects, especially in **data visualization** and applied machine learning  
+- 💼 Research opportunities in **Data Science** and **AI**  
+- 🌐 Connecting with mentors, professionals, and fellow learners in the tech community  
+- 🧠 Solving **real-world challenges** through smart, data-driven solutions  
+- 🚀 Gaining experience in industry with the long-term goal of **building my own impactful projects or products**
 
-> 🧑‍💻 *“The best way to learn is by building — and I’m just getting started.”*
-
-Let's connect and build something great! 🚀  
+I'm passionate about continuous learning and always excited to be part of something meaningful. If you’re working on something cool — let’s connect!
